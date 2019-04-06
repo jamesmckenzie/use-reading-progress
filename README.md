@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jamesmckenzie/use-reading-progress.svg?branch=master)](https://travis-ci.org/jamesmckenzie/use-reading-progress)
+
 # use-reading-progress
 
 A simple React Hook for tracking the current reading progress of a page.
